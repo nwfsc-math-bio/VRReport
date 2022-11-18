@@ -1,0 +1,76 @@
+project: 
+  type: book
+  output-dir: docs
+  
+book: 
+  page-navigation: true
+  title: "NW Viability Report" 
+  site-url: "https://nwfsc-math-bio.github.io/VRReport" 
+  repo-url: "https://github.com/nwfsc-math-bio/VRReport"
+  repo-actions: [edit, source, issue]
+  favicon: assets/favicon.ico
+  downloads: [pdf, docx]
+  search: true
+  author:
+    - name: Mike Ford
+      affiliations:
+        - name: NOAA Fisheres
+          department: Northwest Fisheries Science Center
+  chapters:
+    - index.qmd
+    - content/introduction.qmd
+    - content/methods.qmd
+    - content/esu_boundaries.qmd
+    - content/Interior_Columbia/UCR-steelhead.qmd
+    - content/Interior_Columbia/UCR-spring-chinook.qmd
+    - content/Interior_Columbia/SnakeR-sprsum-chinook.qmd
+    - content/references.qmd
+
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)."
+    left: "&copy; CC-1.0"
+  
+  sidebar:
+    background: "#D9E3E4"
+    logo: "assets/math-bio-logo.png"
+    favicon: images/favicon.ico
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: https://nwfsc-math-bio.github.io
+        text: "NWFSC Math Bio"
+    style: "docked"
+    search: true
+    collapse-level: 1
+
+bibliography: [content/NW-Viability-Report.bib]
+
+execute:
+  echo: false
+  code-overflow: wrap
+
+format:
+  titlepage-pdf:
+    documentclass: scrbook
+    classoption: ["oneside", "open=any"]
+    titlepage: "plain"
+    keep-tex: true
+  docx:
+    toc: true
+    toc-depth: 2
+    reference-doc: template.docx
+    always_allow_html: true
+  html:
+    theme: [cosmo, assets/theme.scss] 
+    toc: true
+    toc-depth: 3
+
+filters:
+  - assets/include-files.lua
+  - quarto
+
+# Comment next 2 lines if the PDF is having trouble
+metadata-files:
+  - _frontmatter.yml
+ 

@@ -1,0 +1,667 @@
+---
+title: "Upper Columbia River steelhead DPS"
+---
+
+## Brief description of DPS
+
+The Upper Columbia Steelhead DPS includes all naturally spawned
+anadromous *O. mykiss* (steelhead) populations below natural and manmade
+impassable barriers in streams in the Columbia River Basin upstream from
+the Yakima River, Washington, to the US-Canada border, as well as six
+artificial propagation programs (85 FR 81822 and Figure 10). The Upper
+Columbia Steelhead DPS was originally listed under the ESA in 1997; it
+is currently designated as threatened. 
+
+![](./media/media/image14.tiff){width="6.0in"
+height="4.638194444444444in"}
+
+Figure . Map of the Upper steelhead DPS's spawning and rearing areas,
+illustrating populations and major population groups.
+
+NOAA Fisheries has defined DPSs of steelhead to include only the
+anadromous members of this species (70 FR 67130). Our approach to
+assessing the current viability of a steelhead DPS is based on
+evaluating information on the abundance, productivity, spatial structure
+and diversity of the anadromous component of the species (Good *et al*.
+2005; 85 FR 81822). Many steelhead populations along the West Coast of
+the U.S. co-occur with conspecific populations of resident rainbow
+trout. We recognize that there may be situations where reproductive
+contributions from resident rainbow trout may mitigate short-term
+extinction risk for some steelhead DPSs (Good *et al.* 2005); 85 FR
+81822). We assume that any benefits to an anadromous population
+resulting from the presence of a conspecific resident form will be
+reflected in direct measures of the current viability of the anadromous
+form.
+
+## Summary of previous viability conclusions
+
+*2005*
+
+The 2005 BRT cited low growth rate/productivity as the most serious risk
+factor for the Upper Columbia River steelhead DPS (Good *et al.* 2005).
+In particular, the BRT concluded that the extremely low replacement rate
+of natural spawners highlighted in the 1998 review continued through the
+subsequent brood cycle. The 2005 BRT assessment also identified very low
+natural spawner abundance compared to interim escapement objectives and
+high levels of hatchery spawners in natural areas as contributing risk
+factors. The 2005 BRT report did note that the number of naturally
+produced steelhead returning to spawn within this DPS had increased over
+the levels reported in the 1998 status review. As with the Mid-Columbia
+and Snake River DPS reviews, the 2005 BRT recognized that resident *O.
+mykiss* were associated with anadromous steelhead production areas for
+this DPS. The review stated that the presence of resident *O. mykiss*
+was considered a mitigating factor by many of the BRT members in rating
+extinction risk.
+
+*2010*
+
+The 2010 status review update reported that Upper Columbia steelhead
+populations had increased in natural origin abundance in recent years,
+but productivity levels remained low (Ford *et al.* 2011). The
+proportions of hatchery origin returns in natural spawning areas
+remained extremely high across the DPS, especially in the Methow and
+Okanogan River populations. The modest improvements in natural returns
+that had been observed the years prior to the review were probably
+primarily the result of several years of relatively good natural
+survival in the ocean and tributary habitats. Tributary habitat actions
+called for in the Upper Columbia Recovery Plan were anticipated to be
+implemented over the next 25 years and the benefits of some of those
+actions would require some time to be realized. Overall, the new
+information considered did not indicate a change in the biological risk
+category since the time of the last BRT status review. 
+
+*2015*
+
+Based on the review in 2015, Upper Columbia River steelhead populations
+were determined to have increased relative to the low levels observed in
+the 1990s, but natural origin abundance and productivity remained well
+below viability thresholds for three out of the four populations (NWFSC
+2015). The viability of the Wenatchee River steelhead population
+continued to improve based on the additional years information available
+for this review. The abundance and productivity viability rating for the
+Wenatchee River exceeds the minimum threshold for 5% extinction risk.
+However, the overall DPS viability remains unchanged from the prior
+review, remaining at high risk driven by low abundance and productivity
+relative to viability objectives and diversity concerns. Application of
+the criteria for abundance/productivity results in relatively coarse
+scale ratings for each population. Across Interior Columbia DPSs, the
+populations differ in the relative changes in survival or limiting
+capacities that could lead to viable ratings. The required improvement
+to improve the abundance/productivity estimates for Upper Columbia
+Steelhead populations is at the high end of the range for all listed
+Interior populations.
+
+## Description of new data available for this review
+
+The 2015 NWFSC status review (NWFSC 2015) evaluated the viability of the
+Upper Columbia Steelhead DPS based on data series through cycle year
+2013/2014 for each of the four extant populations, along with sampling
+information collected at Priest Rapids Dam for the aggregate return to
+the Upper Columbia Basin and Wells Dam (Methow and Okanogan populations
+combined). Estimates generated using that methodology are currently
+available through the 2018/2019 cycle years for each population.
+Spawning escapement estimates are based on a run reconstruction model
+incorporating annual dam counts, results of a three year radio tracking
+program and estimates of broodstock and fisheries removals in various
+reaches above Rock Island Dam. Estimates are generated by WDFW regional
+staff (incorporating information from the Colville Tribal Fish &
+Wildlife Department) and are available through the StreamNet Coordinated
+Assessment Project website. An updated approach for estimating
+population level escapements has been initiated in recent years. That
+approach uses mark/recapture statistics based on data generated from the
+combination of systematic PIT tagging of a target proportion of the
+returns passing Rock Island Dam (below all four population spawning
+tributaries) and subsequent detections at arrays in each of the
+tributaries (Waterhouse *et al.* 2020). Comparisons of the results from
+the updated approach with the methods used in prior years indicate they
+generally produce compatible estimates for a given year. Preliminary
+results are included in this assessment, in parallel to the ongoing data
+collection based population assessments, with the understanding that
+ongoing methodological and data evaluations will result in a single
+approach to annual population enumeration in the future.
+
+*Smolt to Adult Return and Recruits per Spawner Rates*
+
+Smolt to Adult Return (SAR) estimates (Bonneville to Bonneville) for all
+four Upper Columbia River Steelhead population data series are generated
+by the Columbia River Data Access in Real Time (CBR, 2020) project using
+PIT tag detections from all release locations within each population
+basin (Columbia River DART, 2020). The indices represent cumulative
+marine, nearshore and estuary survival. The SAR series includes
+estimates for the range of brood years 2002-2015 (Figure 11). Over the
+period of record, the geometric mean SAR for the Entiat, Methow and
+Okanogan populations (\~3%) represents a low, but reasonable marine
+survival (2% is generally considered a minimal replacement rate), with
+the Wenatchee SAR of \~5% being a robust rate for a stable population.
+Recruits per Spawner (R/S) indices are reported as available from the
+StreamNet Coordinated Assessments data portal (StreamNet, 2020a). All
+populations in the ESU have low (\< 1.0) R/S values, implying that the
+natural replacement rate is not keeping up with all sources of mortality
+across the life-cycle.
+![](./media/media/image15.png){width="4.151163604549431in"
+height="2.6046511373578305in"}
+
+Figure . Smolt to Adult Return and Recruits per Spawner for each of the
+populations in the ESU. Geometric means of SAR and R/S are shown for
+each population, along with the standard error of the estimate (whiskers
+represent +/- one standard error). The time period included in the SAR
+or R/S indices is the past 20 years, depending on data availability.
+
+*Ocean Condition Indices*
+
+Juvenile steelhead are more pelagic than salmon, heading off the
+continental shelf soon after entering the ocean in the spring (Burgner
+1992). Steelhead migrate seasonally across the North Pacific Ocean,
+moving to the north and west in spring and to the south and east, across
+the entire Pacific, from autumn through winter (Atcheson *et al.* 2012).
+Thus, steelhead ocean survival may be impacted by different factors than
+salmon. In fact, recent work has shown steelhead population groupings
+from geographic regions have unique smolt survival trends that appear to
+be driven by factors affecting them early in their ocean residence
+despite steelhead smolts generally being larger than Pacific salmon
+smolts when they enter the ocean and all making wide-ranging, off the
+continental shelf migrations, rather than remaining more coastal, as
+Pacific salmon smolts tend to do (Kendall *et al.* 2017).
+
+Aggregate annual returns of Columbia River steelhead are correlated with
+a range of ocean condition indices including measures of broad scale
+physical conditions, local biological indicators, and local physical
+factors (Peterson *et al.* 2014a). Work is ongoing to relate indices of
+ocean condition to steelhead populations up and down the West Coast.
+Steelhead marine survival seems to be related to ocean surface
+temperature in the first summer of ocean entry, and populations respond
+similarly to spatial patterns of ocean conditions at a rough grain of
+250km between ocean entry points (Kendall *et al.* 2017). Therefore,
+broad spatial patterns of ocean conditions may not capture the finer
+spatial scale of response that steelhead seem to exhibit.
+
+Indicators of ocean condition are highly correlated with each other, and
+exhibit strong temporal autocorrelation (Figure 129, (Peterson *et al.*
+2019)). As a result, when indicators point to conditions that result in
+poor ocean productivity for salmonid populations, they do so as a suite
+of indicators, and for runs of 'good' or 'bad' years (see Habitat
+chapter). Historically, ocean conditions cycled between periods of high
+and low productivity. However, global climate change is likely to
+disrupt this pattern, in general, leading to a preponderance of low
+productivity years, with an unknown temporal distribution (Crozier *et
+al.* 2019b). Recent (2015-2019) ensemble ocean indicators rankings
+include four of the worst seven years in the past 20, meaning that an
+entire salmon or steelhead generation could have been subjected to poor
+ocean productivity conditions.
+
+## Abundance and productivity
+
+Updated data series on spawner abundance, age structure and hatchery
+wild proportions were used to generate current assessments of abundance
+and productivity at the population level. Evaluations were done using
+both a set of metrics corresponding to those used in prior ESA Status
+Reviews as well as a set corresponding to the specific viability
+criteria based on ICTRT recommendations for this DPS. The standard
+Status Review metrics were consistently done across all ESUs and DPSs to
+facilitate comparisons across domains. Assessments using the ICTRT
+metrics are described in the TRT and Recovery Plan Criteria section
+below. The ICTRT abundance and productivity metrics are measured over
+longer time frames to dampen the effects of annual variations and they
+use annual natural origin age composition to calculate brood year
+recruitment when sampling levels meet regional fishery agency criteria.
+
+The most recent estimates (5-year geometric mean) of total and
+natural-origin spawner abundance have declined dramatically, erasing
+gains observed over the past two decades for all four populations
+(Figure 12, Table 6). Recent declines are persistent and large enough to
+result in small, but negative 15-year trends in abundance for all four
+populations (Table 7). Updated spawner estimation methods show a strong
+concordance with existing methods (Figure 13), which is extremely
+encouraging as the estimation process based on detecting tags from a
+run-at-large tagging program is a very robust approach to monitoring
+across the DPS. Annual brood year return-per-spawner estimates have been
+well below replacement in recent years for all four populations. The
+return per spawner estimates summarized in Figure 14 are ratios of the
+estimated natural origin returns produced from spawners in each brood
+year, under the assumption that both hatchery and natural origin fish
+contribute to production as parent spawners. All populations are
+consistently exhibiting natural production rates well below replacement,
+and natural production has also declined consistently, resulting in an
+increasing fraction of hatchery fish on the spawning grounds each year. 
+
+The required improvement to increase abundance and productivity for
+Upper Columbia Steelhead populations is at the high end of the range for
+all listed Interior populations. Using the R/S and SAR indicators by
+population (Figure 15), it is possible to generate an indicator of fresh
+water productivity (FWPI) as a ratio of R/S and SAR. This quantity can
+be thought of as an indicator of smolts per spawner, and thus, the
+overall population productivity in the freshwater environment. FWPI for
+Upper Columbia steelhead populations are very low (\<\<100, Figure 15),
+confirming areas of recovery action focus such as pre-spawn mortality
+and juvenile rearing habitat condition, as well as mainstem migratory
+impacts as the SAR are based on Bonneville to Bonneville tag detections
+and the R/S are based on spawning ground recruits. The initial ICTRT
+assessment of abundance/productivity gaps resulted in a pattern similar
+to that indicated by the long-term productivity metrics (ICTRT 2007,).
+The Wenatchee River population has somewhat higher productivity (SAR,
+R/S, and FWPI) than the remaining populations in the DPS, but still
+falls into a high risk category due to the recent downward trend in both
+abundance and productivity.
+
+![](./media/media/image16.tiff){width="6.0in"
+height="3.529166666666667in"}
+
+![](./media/media/image17.tiff){width="6.0in"
+height="3.529166666666667in"}
+
+Figure . Smoothed trend in estimated total (thick black line, with 95%
+confidence internal in gray) and natural (thin red line) population
+spawning abundance.  In portions of a time series where a population has
+no annual estimates but smoothed spawning abundance is estimated from
+correlations with other populations the smoothed estimate is shown in
+light gray. Points show the annual raw spawning abundance
+estimates.  For some trends the smoothed estimate may be influenced by
+earlier data points not included in the plot. Upper panel is the
+traditionally generated spawner abundance timeseries for each
+population. The lower panel is the PIT tag based population estimates
+based on a tag detections within each population watershed relative to
+tagging the aggregate Upper Columbia River run at large.
+
+![https://lh4.googleusercontent.com/VpVhqQm3bW5UmXQwmdduJhMvAE0A9ugow-dYJBhMW4pCtRUIF58AmcsrJVvYZiVnBbAWpn_gdpBvJ3leLbVwLJ6WfyYh5w5WT7XuFu2NGAWDQhawTk6_AqAcLB2SRSrVPF7A1g](./media/media/image18.png){width="5.197916666666667in"
+height="3.9895833333333335in"}
+
+Figure . Estimate spawners relative to observed spawners across all four
+populations for all years where both measures exist. Black line
+represents the expected 1:1 relationship if the run-at-large tagging
+based, model estimated population measures match the current redd survey
+based measures.
+
+![](./media/media/image19.png){width="5.833333333333333in"
+height="3.431372484689414in"}
+
+Figure . Trends in population productivity, estimated as the log of the
+smoothed natural spawning abundance in year *t* - smoothed natural
+spawning abundance in year (*t* -- 4). Spawning years on x-axis. 
+
+![](./media/media/image20.png){width="5.651162510936133in"
+height="2.581395450568679in"}
+
+Figure . Smolt to Adult Return, Recruits per Spawner, and Freshwater
+Productivity Index (FWPI) for each of the populations in the DPS.
+Geometric means of SAR and R/S are shown for each population, along with
+the standard error of the estimate (whiskers represent +/- one standard
+error). The time period included in the SAR or R/S indices is the past
+20 years, depending on data availability. The FWPI is constructed as a
+ratio of the geomean R/S and SAR, and can be thought of as a measure of
+smolts per spawner.
+
+  --------------------------------------------------------------------------------------------------------
+  Population   MPG        1990-1994   1995-1999   2000-2004   2005-2009   2010-2014   2015-2019   \%
+                                                                                                  Change
+  ------------ ---------- ----------- ----------- ----------- ----------- ----------- ----------- --------
+  Wenatchee R. North      527 (1847)  264 (741)   774 (2319)  684 (1857)  1497 (2774) 554 (1104)  -63
+               Cascades                                                                           (-60)
+
+  Entiat R.    North      68 (134)    38 (201)    110 (491)   102 (462)   203 (688)   92 (280)    -55
+               Cascades                                                                           (-59)
+
+  Methow R.    North      210 (1206)  97 (937)    435 (4255)  523 (3599)  829 (3833)  595 (1954)  -28
+               Cascades                                                                           (-49)
+
+  Okanogan R.  North      65 (678)    25 (526)    124 (2178)  184 (1328)  404 (2122)  223 (1020)  -45
+               Cascades                                                                           (-52)
+  --------------------------------------------------------------------------------------------------------
+
+  : Table . 5-year mean of fraction natural origin (sum of all estimates
+  divided by the number of estimates). Blanks mean no estimate available
+  in that 5-year range.
+
+  ------------------------------------------------------------------------
+  Population       MPG               1990-2005         2004-2019
+  ---------------- ----------------- ----------------- -------------------
+  Wenatchee R.     North Cascades    0.06 (0.01, 0.12) -0.1 (-0.15, -0.06)
+
+  Entiat R.        North Cascades    0.11 (0.05, 0.17) -0.06 (-0.11,
+                                                       -0.01)
+
+  Methow R.        North Cascades    0.11 (0.06, 0.17) -0.05 (-0.1, -0.01)
+
+  Okanogan R.      North Cascades    0.1 (0.05, 0.16)  -0.06 (-0.11,
+                                                       -0.02)
+  ------------------------------------------------------------------------
+
+  : Table . Viability assessments for extant Upper Columbia Steelhead
+  DPS populations. Natural spawning abundance: most recent 10 year
+  geometric mean (range). ICTRT productivity: 20 year geometric mean for
+  parent escapements below 75% of population threshold. Current
+  abundance and productivity estimates are geometric means. Range in
+  annual abundance, standard error and number of qualifying estimates
+  for productivities in parentheses.. 
+
+## Spatial structure and diversity
+
+With the exception of the Okanogan population, the upper Columbia River
+populations were rated as low risk for spatial structure. The high risk
+ratings for diversity are largely driven by high levels of hatchery
+spawners within natural spawning areas and lack of genetic diversity
+among the populations. The basic major life history patterns (summer
+A-run type, tributary and mainstem spawning/rearing patterns, and the
+presence of resident populations and subpopulations) appear to be
+present. All of the populations were rated at high risk for current
+genetic characteristics by the ICTRT. Genetics samples taken in the
+1980s indicate little differentiation within populations in the upper
+Columbia River DPS. More recent studies within the Wenatchee River basin
+have found differences between samples from the Peshastin River,
+believed to be relatively isolated from hatchery spawning, and those
+from other reaches within the Wenatchee. This suggests that there may
+have been a higher level of within and among population diversity prior
+to the advent of major hatchery releases (Seamons *et al.* 2012).
+Genetic studies based on sampling in the Wenatchee as well as other
+Upper Columbia River steelhead population tributaries are underway and
+should allow for future analyses of current genetic structure and any
+impacts of changing hatchery release practices. 
+
+Hatchery-origin returns continue to constitute a high fraction of total
+spawners in natural spawning areas for this DPS (Table 8). The estimated
+proportion of natural-origin spawners has increased consistently since
+the late 1990s for all four populations (Figure 16). Natural-origin
+proportions were the highest in the Wenatchee River (58%). Although
+increasing, natural origin proportions in the Methow and Okanogan rivers
+remained at low levels. There are currently direct releases of hatchery
+origin juveniles in three of the four populations, the exception being
+the Entiat River. Based on PIT detections, hatchery origin spawners in
+the Entiat River include stray hatchery returns from releases into the
+Wenatchee River (Hillman *et al.* 2015). Reproductive effectiveness
+studies on the Wenatchee population indicate that hatchery-hatchery
+matings have dramatically reduced fitness compared to matings among
+natural-origin fish (Ford *et al.* 2016), reinforcing the weight the
+ICTRT placed on the presence of hatchery origin spawners in the Spatial
+Structure and Diversity metric.
+
+![](./media/media/image21.png){width="5.833333333333333in"
+height="3.431372484689414in"}
+
+Figure . Smoothed trend in the estimated fraction of the natural
+spawning population consisting of fish if natural origin. Points show
+the annual raw estimates. 
+
+  --------------------------------------------------------------------------
+  Population     1995-1999   2000-2004   2005-2009   2010-2014   2015-2019
+  -------------- ----------- ----------- ----------- ----------- -----------
+  Wenatchee R.   0.41        0.34        0.38        0.56        0.50
+
+  Entiat R.      0.21        0.24        0.24        0.30        0.33
+
+  Methow R.      0.13        0.11        0.15        0.24        0.31
+
+  Okanogan R.    0.05        0.06        0.14        0.21        0.24
+  --------------------------------------------------------------------------
+
+  : Table . Upper Columbia Steelhead DPS Steelhead population risk
+  ratings integrated across the four VSP parameters. Viability key: HV,
+  highly viable; V, viable; M, maintained; and HR, high risk (does not
+  meet viability criteria).
+
+## Non-treaty Harvest
+
+Steelhead were historically taken in tribal and non-tribal gillnet
+fisheries, and in recreational fisheries in the mainstem Columbia River
+and in tributaries. In the 1970s, retention of steelhead in non-treaty
+commercial fisheries was prohibited, and in the mid 1980s, tributary
+recreational fisheries in Washington adopted mark-selective regulations.
+There is incidental mortality associated with mark-selective
+recreational fisheries. Sport fisheries targeting hatchery run steelhead
+occur in the mainstem Columbia River and in several Upper Columbia River
+tributaries. In recent years, Upper Columbia River exploitation rates
+have been stable at around 1.5%. As of 2012, rates are estimated over
+two management intervals per year, Fall and Winter/Spring/Summer (Figure
+17).
+
+Figure . Harvest rates for non-treaty Upper Columbia steelhead. As of
+2012, reporting is generated across two management periods, Fall (blue
+line) and Winter/Spring/Summer (orange line), previously harvest rate
+reporting was across all of the calendar year. TAC 2020.
+
+## Biological viability relative to recovery goals
+
+NOAA Fisheries adopted a recovery plan for upper Columbia River spring
+Chinook salmon and steelhead in 2007 (FR 72 #194, 57303−57307). The plan
+was developed by the Upper Columbia Salmon Recovery Board (UCSRB) and is
+available at:
+https://www.fisheries.noaa.gov/resource/document/recovery-plan-upper-columbia-spring-chinook-salmon-and-steelhead.
+
+Achieving recovery (delisting) of each ESU via sufficient improvement in
+abundance, productivity, spatial structure, and diversity is the longer
+term goal of the UC Recovery Plan. The UC Recovery Plan includes
+specific quantitative criteria expressed relative to population
+viability curves (ICTRT 2007). It includes two quantitative criteria for
+assessing the viability of the steelhead DPS against the recovery
+objective: "The 12-year geometric mean (representing approximately three
+generations) of abundance and productivity of naturally produced
+steelhead within the Wenatchee, Entiat, and Methow populations must
+reach a level that would have not less than a 5% extinction-risk
+(viability) over a 100 year period" and "at a minimum, the Upper
+Columbia Steelhead DPS will maintain at least 3,000 naturally produced
+spawners and a spawner:spawner ratio greater than 1:1 distributed among
+the three populations." The minimum number of naturally produced
+spawners (expressed as 12-year geometric means) should exceed 1,000 each
+for the Wenatchee and Methow river populations and 500 each for the
+Entiat and Okanogan river populations. The plan also established minimum
+productivity thresholds. These natural spawner abundance criteria
+replace the interim targets referenced in the 2005 BRT report. The
+12-year geometric mean productivity should exceed 1.1 spawners per
+parent spawner for the two larger populations (Wenatchee and Methow
+Rivers), and 1.2 for the smaller Entiat River and Okanogan populations. 
+
+The ICTRT had recommended that at least two of the four extant
+populations be targeted for highly viable status (less than 1% risk of
+extinction over 100 years) because of the relatively low number of
+extant populations remaining in the DPS. The UC Recovery Plan adopted an
+alternative approach for addressing the limited number of populations in
+the DPS---5% or less risk of extinction for at least three of the four
+extant populations.
+
+The UC Recovery Plan also calls for "... restoring the distribution of
+naturally produced spring Chinook salmon and steelhead to previously
+occupied areas where practical, and conserving their genetic and
+phenotypic diversity." Specific criteria included in the UC Recovery
+Plan reflect a combination of the criteria recommended by the ICTRT
+(ICTRT 2007) and an earlier pre-TRT analytical project (Ford *et al.*
+2001). The plan incorporates spatial structure criteria specific to each
+steelhead population. For the Wenatchee River population, the criteria
+require observed natural spawning in four of the five major spawning
+areas as well as in at least one of the minor spawning areas downstream
+of Tumwater Dam. In the Methow River, natural spawning should be
+observed in three major spawning areas. In each case, the major spawning
+areas should include a minimum of 5% of the total return to the system
+or 20 redds, whichever is greater. In the Entiat, natural spawning
+should be observed in both historical major spawning areas, with a
+distribution criteria similar to the Methow. In the Okanogan, natural
+spawning should be observed within the two major spawning areas and
+within at least two of the five minor spawning areas, with a numerical
+distribution similar to the Methow, across the minor spawning areas. The
+plan incorporates criteria for spatial structure and diversity adopted
+from the ICTRT viability report. The mean score for the three metrics
+representing natural rates and spatially mediated processes should
+result in a moderate or lower risk in each of the three populations and
+all threats defined as high risk must be addressed. In addition, the
+mean score for the eight ICTRT metrics tracking natural levels of
+variation should result in a moderate or lower risk score at the
+population level.
+
+<table>
+<caption><p>Table . 5-year geometric mean of raw natural origin spawner
+counts. This is the raw total spawner count times the fraction natural
+origin estimate, if available. In parentheses, 5-year geometric mean of
+raw total spawner counts is shown. A value only in parentheses means
+that a total spawner count was available but no or only one estimate of
+natural origin spawners available. The geometric mean was computed as
+the product of counts raised to the power 1 over the number of counts
+available (2 to 5). A minimum of 2 values were used to compute the
+geometric mean. Percent change between the most recent two 5-year
+periods is shown on the far right.</p></caption>
+<colgroup>
+<col style="width: 15%" />
+<col style="width: 8%" />
+<col style="width: 9%" />
+<col style="width: 14%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 0%" />
+<col style="width: 10%" />
+<col style="width: 0%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">Population</th>
+<th colspan="4">Abundance and productivity metrics</th>
+<th colspan="3">Spatial structure and diversity metrics</th>
+<th colspan="2">Overall Risk Rating</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th><em>ICTRT minimum</em></th>
+<th><em>Natural spawning</em></th>
+<th><em>ICTRT productivity</em></th>
+<th><em>Integrated A/P risk</em></th>
+<th><em>Natural processes</em></th>
+<th><em>Diversity risk</em></th>
+<th colspan="2"><em>Integrated SS/D risk</em></th>
+<th colspan="2"></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Wenatchee River</td>
+<td>1,000</td>
+<td><p>931</p>
+<p>(sd. 667)</p></td>
+<td><p>0.95</p>
+<p>(0.06, 13/20)</p></td>
+<td>Moderate</td>
+<td>Low</td>
+<td>High</td>
+<td colspan="2">High</td>
+<td colspan="2">High</td>
+</tr>
+<tr class="even">
+<td>Entiat River</td>
+<td>500</td>
+<td><p>140</p>
+<p>(sd. 89)</p></td>
+<td><p>0.433</p>
+<p>(0.17, 20/20)</p></td>
+<td>High</td>
+<td>Moderate</td>
+<td>High</td>
+<td colspan="2">High</td>
+<td colspan="2">High</td>
+</tr>
+<tr class="odd">
+<td>Methow River</td>
+<td>1,000</td>
+<td><p>703</p>
+<p>(sd. 297)</p></td>
+<td><p>0.20</p>
+<p>(0.22, 12/20)</p></td>
+<td>High</td>
+<td>Low</td>
+<td>High</td>
+<td colspan="2">High</td>
+<td colspan="2">High</td>
+</tr>
+<tr class="even">
+<td>Okanogan River</td>
+<td>750</td>
+<td><p>297</p>
+<p>(sd. 189)</p></td>
+<td><p>0.09</p>
+<p>(0.25, 19/20)</p></td>
+<td>High</td>
+<td>High</td>
+<td>High</td>
+<td colspan="2">High</td>
+<td colspan="2">High</td>
+</tr>
+</tbody>
+</table>
+
+: Table . 5-year geometric mean of raw natural origin spawner counts.
+This is the raw total spawner count times the fraction natural origin
+estimate, if available. In parentheses, 5-year geometric mean of raw
+total spawner counts is shown. A value only in parentheses means that a
+total spawner count was available but no or only one estimate of natural
+origin spawners available. The geometric mean was computed as the
+product of counts raised to the power 1 over the number of counts
+available (2 to 5). A minimum of 2 values were used to compute the
+geometric mean. Percent change between the most recent two 5-year
+periods is shown on the far right.
+
+## Updated biological risk summary
+
+Given the recent changes in hatchery practices in the Wenatchee River
+and the potential for reduced hatchery contributions or increased
+spatial separation of hatchery vs. natural origin spawners, it is
+possible that genetic composition could trend towards patterns
+consistent with strong natural selection influences in the future.
+Ongoing genetic sampling and analysis could provide information in the
+future to determine if the diversity risk is abating. The proportions of
+hatchery-origin returns in natural spawning areas remain high across the
+DPS, especially in the Methow and Okanogan river populations. Tributary
+habitat actions called for in the Upper Columbia Recovery Plan are
+anticipated to be implemented over the next 25 years and the benefits of
+some of those actions will require some time to be realized. 
+
+The most recent estimates (5-year geometric mean) of total and
+natural-origin spawner abundance have declined since the last report,
+largely erasing gains observed over the past two decades for all four
+populations (Figure 12, Table 6). Recent declines are persistent and
+large enough to result in small, but negative 15-year trends in
+abundance for all four populations (Table 7). The abundance and
+productivity viability rating for the Wenatchee River exceeds the
+minimum threshold for 5% extinction risk. The overall DPS viability
+remains unchanged from the prior review, remaining at high risk driven
+by low abundance and productivity relative to viability objectives and
+diversity concerns (Table 9).
+
++-----------------+----------+---------+-----+----------+-----------+
+|                 |          | **      |     |          |           |
+|                 |          | Spatial |     |          |           |
+|                 |          | struc   |     |          |           |
+|                 |          | ture/di |     |          |           |
+|                 |          | versity |     |          |           |
+|                 |          | risk**  |     |          |           |
++=================+==========+=========+=====+==========+===========+
+|                 |          | **Very  | *   | **Mo     | **High**  |
+|                 |          | low**   | *Lo | derate** |           |
+|                 |          |         | w** |          |           |
++-----------------+----------+---------+-----+----------+-----------+
+| **Abundance/**  | **Very   | **HV**  | **H | **V**    | **M**     |
+|                 | low**    |         | V** |          |           |
+| **productivity  |          |         |     |          |           |
+| risk**          | (\<1%)   |         |     |          |           |
++-----------------+----------+---------+-----+----------+-----------+
+|                 | **Low**  | **V**   | **  | **V**    | **M**     |
+|                 |          |         | V** |          |           |
+|                 | (1--5%)  |         |     |          |           |
++-----------------+----------+---------+-----+----------+-----------+
+|                 | **Mo     | **M**   | **  | **M**    | **HR**    |
+|                 | derate** |         | M** |          |           |
+|                 |          |         |     |          | **We      |
+|                 | (6--25%) |         |     |          | natchee** |
++-----------------+----------+---------+-----+----------+-----------+
+|                 | **High** | **HR**  | **H | **HR**   | **HR**    |
+|                 |          |         | R** |          |           |
+|                 | (\>25%)  |         |     |          | *         |
+|                 |          |         |     |          | *Entiat** |
+|                 |          |         |     |          |           |
+|                 |          |         |     |          | *         |
+|                 |          |         |     |          | *Methow** |
+|                 |          |         |     |          |           |
+|                 |          |         |     |          | **O       |
+|                 |          |         |     |          | kanogan** |
++-----------------+----------+---------+-----+----------+-----------+
+
+: Table . 15-year trends in log natural origin spawner abundance
+computed from a linear regression applied to the smoothed natural origin
+spawner log abundance estimate. Only populations with at least 4 wild
+spawner estimates and with at least 2 data points (actual data not
+estimates) in the first 5 years and last 5 years of the 15-year ranges
+are shown.

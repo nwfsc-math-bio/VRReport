@@ -1,0 +1,20 @@
+# Preface {.unnumbered}
+
+This report can be cited as:
+Northwest Fisheries Science Center.  2021.  Biological viability assessment update for Pacific salmon and steelhead listed under the Endangered Species Act:  Pacific Northwest.  
+
+Author contributions:
+
+* Christopher Jordan:  Interior Columbia
+* Damon Holzer:  maps
+* Elizabeth Eli Holmes:  status and trends analyses and graphs
+* James Myers:  Lower Columbia, Willamette, Puget Sound
+* Katie Barnas: data management, habitat
+* Laurie Weitkamp:  Oregon coast
+* Lisa Crozier:  climate, environment
+* Mari Williams: Interior Columbia
+* Martin Liermann:  Lake Ozette
+* Michael Ford: editor, project management
+* Mindy Rowse:  Puget Sound
+* Monica Diaz:  data management
+
