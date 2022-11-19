@@ -2,136 +2,40 @@
 title: "Introduction and summary of conclusions"
 ---
 
-In the Pacific Northwest, there are currently 17 distinct population
-segments (DPS) or evolutionarily significant units (ESUs)[^2] of Pacific
-salmon and steelhead listed as threatened or endangered under the
-Endangered Species Act (ESA) (Table 1). The ESA requires that the
-National Marine Fisheries Service (NMFS) review the status of listed
-species under its authority at least every five years and determine
-whether any species should be removed from the list or have its listing
-status changed. The most recent such review for ESA listed salmon in the
-Pacific Northwest occurred in 2016
-(https://www.fisheries.noaa.gov/action/2016-5-year-reviews-28-listed-species-pacific-salmon-steelhead-and-eulachon).
-NMFS is again conducting such a review in 2020/21 (84 FR 53117).
+In the Pacific Northwest, there are currently 17 distinct population segments (DPS) or evolutionarily significant units (ESUs)\[\^2\] of Pacific salmon and steelhead listed as threatened or endangered under the Endangered Species Act (ESA) (Table 1). The ESA requires that the National Marine Fisheries Service (NMFS) review the status of listed species under its authority at least every five years and determine whether any species should be removed from the list or have its listing status changed. The most recent such review for ESA listed salmon in the Pacific Northwest occurred in 2016 (https://www.fisheries.noaa.gov/action/2016-5-year-reviews-28-listed-species-pacific-salmon-steelhead-and-eulachon). NMFS is again conducting such a review in 2020/21 (84 FR 53117).
 
-The NMFS West Coast Region is responsible for the 5-year review process
-for Pacific salmon and steelhead and for decision-making regarding any
-proposed changes in listing status. This report provides updated
-information and analyses on the biological viability of the listed
-species, focusing primarily on trends and status in abundance,
-productivity, spatial structure and diversity. In some cases, the report
-considers new information available on ESU or population boundaries.
-Where possible, this review also summarizes current information with
-respect to recovery goals identified in recovery plans or Technical
-Recovery Team viability documents.
+The NMFS West Coast Region is responsible for the 5-year review process for Pacific salmon and steelhead and for decision-making regarding any proposed changes in listing status. This report provides updated information and analyses on the biological viability of the listed species, focusing primarily on trends and status in abundance, productivity, spatial structure and diversity. In some cases, the report considers new information available on ESU or population boundaries. Where possible, this review also summarizes current information with respect to recovery goals identified in recovery plans or Technical Recovery Team viability documents.
 
-In three prior viability reports that supported the current listings
-(Good *et al.* 2005; Hard *et al.* 2007; NWFSC 2015) the report
-categorized each ESU as either "in danger of extinction", "likely to
-become endangered" or "not likely to become endangered", based on the
-ESU's abundance, productivity, spatial structure and diversity. In a
-fourth report (Oregon Coast coho salmon; (Stout *et al.* 2012), the
-three categories were instead referred to as "high", "moderate" and
-"low" risk, and included narrative definitions for the "high" and
-"moderate" risk categories (see p. 114 of Stout *et al*. 2012). In this
-report we use the "high", "moderate", "low" risk categories of Stout *et
-al.* (2012). In addition, we also note whether the viability of each ESU
-appears to be unchanged, improving, or declining, even if the magnitude
-of the change is not sufficient to warrant a move among the three risk
-categories (Table 1). The information in the report will be incorporated
-into the Region's review, and the Region will make final determinations
-about whether changes in listing status are or are not warranted, taking
-into account not only biological information but also ongoing or planned
-protective efforts and recovery actions.
+In three prior viability reports that supported the current listings [@good_updated_2005, @hard_status_2007, @nwfsc_status_2015] the report categorized each ESU as either "in danger of extinction", "likely to become endangered" or "not likely to become endangered", based on the ESU's abundance, productivity, spatial structure and diversity. In a fourth report (Oregon Coast coho salmon; @stout_scientific_2012 ), the three categories were instead referred to as "high", "moderate" and "low" risk, and included narrative definitions for the "high" and "moderate" risk categories (see p. 114 of Stout *et al*. 2012). In this report we use the "high", "moderate", "low" risk categories of @stout_scientific_2012. In addition, we also note whether the viability of each ESU appears to be unchanged, improving, or declining, even if the magnitude of the change is not sufficient to warrant a move among the three risk categories (Table 1). The information in the report will be incorporated into the Region's review, and the Region will make final determinations about whether changes in listing status are or are not warranted, taking into account not only biological information but also ongoing or planned protective efforts and recovery actions.
 
-Several ESU/DPS were evaluated to have a declining trend in overall
-status since the last review (Table 1). Upper Willamette steelhead and
-Chinook salmon were judged to have declining viability due to
-chronically declining abundance and persistent concerns regarding
-spatial structure and diversity. Snake River sockeye was judged to have
-a declining viability trend, the result of abundance declines combined
-with very high vulnerability to climate change. In contrast, a few
-ESU/DPS were evaluated to be improving in viability. Lower Columbia
-Chinook salmon were judged to have an increasing viability trend, the
-result of natural spawner increases in multiple populations combined
-with dramatic improvements in the fraction natural origin spawners in
-several populations. Columbia River chum also showed marked improvement
-in abundance for several extant populations, although many historical
-populations remain extirpated or at extremely low abundance. Puget Sound
-steelhead also showed some evidence of improving viability, with the
-reversal of some previous strong negative trends.
+Several ESU/DPS were evaluated to have a declining trend in overall status since the last review (Table 1). Upper Willamette steelhead and Chinook salmon were judged to have declining viability due to chronically declining abundance and persistent concerns regarding spatial structure and diversity. Snake River sockeye was judged to have a declining viability trend, the result of abundance declines combined with very high vulnerability to climate change. In contrast, a few ESU/DPS were evaluated to be improving in viability. Lower Columbia Chinook salmon were judged to have an increasing viability trend, the result of natural spawner increases in multiple populations combined with dramatic improvements in the fraction natural origin spawners in several populations. Columbia River chum also showed marked improvement in abundance for several extant populations, although many historical populations remain extirpated or at extremely low abundance. Puget Sound steelhead also showed some evidence of improving viability, with the reversal of some previous strong negative trends.
 
-Table -- Summary of current ESA listing status, recent trends and
-summary of conclusions
+Table -- Summary of current ESA listing status, recent trends and summary of conclusions
 
-  ------------- ----------------- ------------- ------------- ------------------
-  **Species**   **ESU/DPS**       **ESA listing **Recent      **2020 extinction
-                                  status**      viability     risk category^2^**
-                                                trend^1^**    
+|             |                           |                        |                               |                                      |
+|:-------------|:-------------|--------------|:-------------|:-------------|
+| **Species** | **ESU/DPS**               | **ESA listing status** | **Recent viability trend^1^** | **2020 extinction risk category^2^** |
+| Chinook     | Upper Columbia spring     | Endangered             | unchanged                     | high                                 |
+|             | Snake River spring/summer | Threatened             | unchanged                     | moderate-to-high                     |
+|             | Snake River fall          | Threatened             | unchanged                     | moderate-to-low                      |
+|             | Upper Willamette          | Threatened             | declining                     | moderate                             |
+|             | Lower Columbia            | Threatened             | increasing                    | moderate                             |
+|             | Puget Sound               | Threatened             | unchanged                     | moderate                             |
+| Coho        | Lower Columbia            | Threatened             | unchanged                     | moderate                             |
+|             | Oregon Coast              | Threatened             | unchanged                     | moderate-to-low                      |
+| Sockeye     | Snake River               | Endangered             | declining                     | high                                 |
+|             | Lake Ozette               | Threatened             | mixed                         | moderate-to-high                     |
+| Chum        | Hood Canal summer         | Threatened             | unchanged                     | moderate-to-low                      |
+|             | Columbia River            | Threatened             | unchanged                     | moderate                             |
+| Steelhead   | Upper Columbia            | Threatened             | unchanged                     | high                                 |
+|             | Snake River               | Threatened             | unchanged                     | moderate                             |
+|             | Middle Columbia           | Threatened             | unchanged                     | moderate                             |
+|             | Upper Willamette          | Threatened             | declining                     | moderate-to-high                     |
+|             | Lower Columbia            | Threatened             | unchanged                     | moderate                             |
+|             | Puget Sound               | Threatened             | increasing                    | moderate                             |
 
-  Chinook       Upper Columbia    Endangered    unchanged     high
-                spring                                        
+: Table . 15-year trends in log natural spawner abundance computed from a linear regression applied to the smoothed natural spawner log abundance estimate. Only populations with at least 4 natural spawner estimates from 1980 to 2014 are shown and with at least 2 data points in the first 5 years and last 5 years of the 15-year period.
 
-                Snake River       Threatened    unchanged     moderate-to-high
-                spring/summer                                 
+^1^Recent viability trend summarizes the short-term trend in viability for each ESU/DPS since the prior status review, based on the expert opinion of the chapter author considering all four VSP criteria (abundance, productivity, spatial structure and diversity).
 
-                Snake River fall  Threatened    unchanged     moderate-to-low
-
-                Upper Willamette  Threatened    declining     moderate
-
-                Lower Columbia    Threatened    increasing    moderate
-
-                Puget Sound       Threatened    unchanged     moderate
-
-  Coho          Lower Columbia    Threatened    unchanged     moderate
-
-                Oregon Coast      Threatened    unchanged     moderate-to-low
-
-  Sockeye       Snake River       Endangered    declining     high
-
-                Lake Ozette       Threatened    mixed         moderate-to-high
-
-  Chum          Hood Canal summer Threatened    unchanged     moderate-to-low
-
-                Columbia River    Threatened    unchanged     moderate
-
-  Steelhead     Upper Columbia    Threatened    unchanged     high
-
-                Snake River       Threatened    unchanged     moderate
-
-                Middle Columbia   Threatened    unchanged     moderate
-
-                Upper Willamette  Threatened    declining     moderate-to-high
-
-                Lower Columbia    Threatened    unchanged     moderate
-
-                Puget Sound       Threatened    increasing    moderate
-  ------------- ----------------- ------------- ------------- ------------------
-
-  : Table . 15-year trends in log natural spawner abundance computed
-  from a linear regression applied to the smoothed natural spawner log
-  abundance estimate. Only populations with at least 4 natural spawner
-  estimates from 1980 to 2014 are shown and with at least 2 data points
-  in the first 5 years and last 5 years of the 15-year period.
-
-^1^Recent viability trend summarizes the short-term trend in viability
-for each ESU/DPS since the prior status review, based on the expert
-opinion of the chapter author considering all four VSP criteria
-(abundance, productivity, spatial structure and diversity).
-
-^2^ High risk: A DPS or ESU with a high risk of extinction is at or near
-a level of abundance, productivity, spatial structure or diversity that
-places its persistence in question, such that the risk of extinction is
-more than 5% in 100 years. The demographics of a species/DPS at such a
-high level of risk may be highly uncertain and strongly influenced by
-stochastic or depensatory processes. Similarly, a species/DPS may be at
-high risk of extinction if it faces clear and present threats (e.g.,
-confinement to a small geographic area, imminent destruction,
-modification or curtailment of its habitat, or disease epidemic) that
-are likely to create such imminent demographic risk. Moderate risk: A
-DPS or ESU is at moderate risk of extinction if it exhibits a trajectory
-indicating that it is more likely than not to be at a high level of
-extinction risk within 30-80 years. A DPS/ESU may be at moderate risk of
-extinction due to projected threats or declining trends in abundance,
-productivity, spatial structure, or diversity. Low risk: neither
-moderate nor high risk.
+^2^ High risk: A DPS or ESU with a high risk of extinction is at or near a level of abundance, productivity, spatial structure or diversity that places its persistence in question, such that the risk of extinction is more than 5% in 100 years. The demographics of a species/DPS at such a high level of risk may be highly uncertain and strongly influenced by stochastic or depensatory processes. Similarly, a species/DPS may be at high risk of extinction if it faces clear and present threats (e.g., confinement to a small geographic area, imminent destruction, modification or curtailment of its habitat, or disease epidemic) that are likely to create such imminent demographic risk. Moderate risk: A DPS or ESU is at moderate risk of extinction if it exhibits a trajectory indicating that it is more likely than not to be at a high level of extinction risk within 30-80 years. A DPS/ESU may be at moderate risk of extinction due to projected threats or declining trends in abundance, productivity, spatial structure, or diversity. Low risk: neither moderate nor high risk.

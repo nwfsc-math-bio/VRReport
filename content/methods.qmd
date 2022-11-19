@@ -4,28 +4,30 @@ title: Methods
 
 This report includes both a set of common analyses conducted for each
 ESU as well as in some cases ESU-specific analyses developed by the
-individual technical recovery teams (TRTs).  Here, we describe only the
+individual technical recovery teams (TRTs).  Here, we describe only the
 common set of analyses; see the individual sections for a description of
-the analyses that pertain to specific ESUs.  Abundance and productivity
+the analyses that pertain to specific ESUs.  Abundance and productivity
 were generally analyzed using quantitative methods, while spatial
 structure and diversity were analyzed qualitatively.
 
-*Spawning abundance and trends --* All of the Pacific Northwest TRTs
+## Spawning abundance and trends
+
+All of the Pacific Northwest TRTs
 spent considerable time and effort developing spawning abundance data
-for the populations they identified within ESUs.  In almost all cases
+for the populations they identified within ESUs.  In almost all cases
 these estimates are derived from state, tribal or federal monitoring
-programs.  The raw information upon which the spawning abundance
+programs.  The raw information upon which the spawning abundance
 estimates were developed consists of numerous types of data, including
 redd counts, dam counts, carcass surveys, information on pre-spawning
 mortality, and distribution within populations, which the TRTs used to
-develop estimates of natural origin spawning abundance.  It is important
+develop estimates of natural origin spawning abundance.  It is important
 to recognize that spawning abundance estimates and related information
 such as the fraction of spawners that are natural origin are not in most
 cases 'facts' that are known with certainty. Rather, they typically are
 estimates based on a variety of sources of information, some known with
 greater precision or accuracy than others. Ideally, these estimates
 would be characterized by a good understanding of the degree of
-variation due to measurement error.  However, for the most part such a
+variation due to measurement error.  However, for the most part such a
 statistical characterization is either not possible or has not been
 attempted, although many improvements have been made in the last decade
 (see specific chapters for details). The spawning time series summarized
@@ -40,47 +42,47 @@ Multivariate dynamic linear modeling (DLM) was used to estimate
 population-specific mean trends in each ESU from the log of total
 spawner counts. The result is an estimate of the mean or smoothed total
 spawner counts, from which summary statistics regarding trends were
-computed.  We focus exclusively on fish spawning in nature, but often
+computed.  We focus exclusively on fish spawning in nature, but often
 these naturally spawning populations include some numbers of
 hatchery-origin fish, either as part of a deliberate supplementation
-effort or due to straying from hatchery programs.  For the rest of this
+effort or due to straying from hatchery programs.  For the rest of this
 report, a "natural-origin" or "wild" fish refers to a fish whose parents
 spawned naturally, and a "hatchery-origin" fish refers to a fish whose
 parents were spawned in a hatchery, regardless of prior generation
-origin.  
+origin.  
 
 In order to estimate the trend of natural-origin spawners in populations
 that also include hatchery-origin spawners, a univariate DLM was applied
 to the logit of the fraction natural-origin estimate to produce a
-smoothed proportion natural-origin time series.  This was used to
+smoothed proportion natural-origin time series.  This was used to
 produce an estimate of the mean natural-origin spawners for years when
 fraction natural-origin estimates were unavailable.
 
 The mean or smoothed total spawner count is similar in concept to a 3-
 or 5-year geometric mean; the goal is the same---to produce an estimate
-that smooths over single year variation.  Such variation arises from
+that smooths over single year variation.  Such variation arises from
 observation error in the spawning counts and also from peaks and troughs
 in spawners numbers due to the life-history of salmonids or
-environmental variation.  The multivariate DLM approach has a number of
-advantages.  Most importantly it is a statistical model for which
+environmental variation.  The multivariate DLM approach has a number of
+advantages.  Most importantly it is a statistical model for which
 maximum-likelihood diagnostics, model selection criteria, and confidence
 intervals are available. It is a time-series model, which addresses
-temporal autocorrelation in the data.  Where there are missing data, it
+temporal autocorrelation in the data.  Where there are missing data, it
 provides an estimate for the missing year with appropriately wider
-confidence intervals.  And lastly, it allows us to use information
+confidence intervals.  And lastly, it allows us to use information
 across all populations within an ESU to estimate the level of
 year-to-year variation in the mean spawner count---the process
 variance---and allows us to estimate the year-to-year covariance, which
-is often high, across populations within an ESU.  The latter improves
+is often high, across populations within an ESU.  The latter improves
 estimation of missing values because populations with data in one year
 help inform the values for populations with missing data that year.
 
 ## Dynamic linear modeling for time-varying trend estimation
 
 Dynamic linear models (DLMs) are similar to linear regression models
-with a yearly trend.  Like a classic trend analysis using linear
+with a yearly trend.  Like a classic trend analysis using linear
 regression, the goal is to estimate the mean spawner count at *x*, where
-*x* is year (time).  Linear regression models, however, use a
+*x* is year (time).  Linear regression models, however, use a
 time-constant yearly trend (which appears as the regression line versus
 time) while DLMs allow the trend to be time-varying.
 
@@ -88,36 +90,42 @@ In mathematical terms this means that the classic linear regression of
 log spawners (*y*) against year treats the trend (β) or yearly growth in
 the mean spawner count as a constant and fits the following model:
 
-![https://lh5.googleusercontent.com/SdhTrJsby9BdaFKSG02iCM5Xd3fapEiehHf2ByZO1kmQoAnGvqc34L6YkkcSIS89bm5xgfqTx6G_4xlKYhR5W4eMAsDKEYGCumZTaFMQBPyLFy_MPyYO_AFsopCd3wgY8tvI9A](./media/media/image1.png){width="1.2105260279965004in"
-height="0.5476192038495188in"}
+```{r}
+#| fig-width: 1.21
+knitr::include_graphics(here::here("media", "image1.png"))
+```
 
-where *y~t\ ~*are the observations, yt is the mean of *y~t~* and *v~t~*
-are normal-distributed errors.  The mean spawner count in year *t* is
-the mean spawner count in year *t −* 1 plus the constant trend value β.
+where *y~t~*are the observations, yt is the mean of *y~t~* and *v~t~*
+are normal-distributed errors.  The mean spawner count in year *t* is
+the mean spawner count in year *t−* 1 plus the constant trend value β.
 Normally, we write this model in classic linear regression form as
 
-![https://lh5.googleusercontent.com/nfXDNpAlVNxUqhVt-cH8N_974BMLENGTY1pixZZVxt1uirEHCtHYAZgCa-0nc5879y02yE9MWG7l2LVZejmTG7MsIVExT172KGNpnJvHeFVfYCpOwOSIYWWO5xvIapJhkUx11A](./media/media/image2.png){width="1.375in"
-height="0.3854166666666667in"}
+```{r}
+#| fig-width: 1.375
+knitr::include_graphics(here::here("media", "image2.png"))
+```
 
-with the mean of *y~t~  *equal to α + β*t*.  A DLM, in contrast, allows
+with the mean of *y~t~* equal to α + β*t*.  A DLM, in contrast, allows
 us to fit a model with a time-varying β. Specifically, the following
 model
 
-![https://lh4.googleusercontent.com/2IiVCR0lye4NIn7r-GM8AnNv97nrnsN-9HoAnJXEmTPVa-6e6pRKew4ZQRbTtDQwrDD7US-IGC1n-zp0I5XErfkFKV3tMBn_mgJsRnUIaHx5NCVON-jm2k-dVC2AhgPX8xk2Gg](./media/media/image3.png){width="2.2604166666666665in"
-height="0.59375in"}
+```{r}
+#| fig-width: 2.26
+knitr::include_graphics(here::here("media", "image3.png"))
+```
 
 The time-varying β is modeled as *u* + *w~t~*, where *w~t~* is a
-normally distributed random variable.  
+normally distributed random variable.  
 
 Figure 1 shows example spawner data where a time-varying sinusoidal β
 (yearly growth rate) was used to generate counts (the circles) using the
-DLM model above.   The black line in the top panel of Figure 1 shows the
-true mean *y*.  The red line shows the estimate from a linear regression
-of *y* against year with a non-time-varying β.  The blue line shows the
-estimate from a DLM where the β is allowed to vary in time.  The bottom
+DLM model above.   The black line in the top panel of Figure 1 shows the
+true mean *y*.  The red line shows the estimate from a linear regression
+of *y* against year with a non-time-varying β.  The blue line shows the
+estimate from a DLM where the β is allowed to vary in time.  The bottom
 panel shows the estimate of β compared to the true sinusoidal β that
-generated the data.  This illustrates the power of DLM when the
-objective is to estimate a time-varying trend. 
+generated the data.  This illustrates the power of DLM when the
+objective is to estimate a time-varying trend. 
 
 ## Multivariate DLMs for analysis of multiple time series from one ESU
 
@@ -125,7 +133,7 @@ A multivariate DLM allows one to estimate time-varying trends using a
 multiple observed time series, in our case populations within ESU, where
 parameter sharing is allowed across the time series. Specifically, one
 can constrain the variances to be the same across time series and to
-allow covariance across time series.  The latter allows information from
+allow covariance across time series.  The latter allows information from
 time series with data in year *t* to help inform the estimate of mean
 *y* for time series that have no data in year *t*. The multivariate DLM
 allowed us to use all spawner count information in the ESU to deal with
@@ -134,13 +142,15 @@ estimate missing spawner count data.
 
 Mathematically, the model being fit is
 
-![https://lh3.googleusercontent.com/fkAuR1oBOcyFAhbrJ0NUiByOwfg-s5wYtrxOi1lZvFYno5SxCyMYYTbEulNDGg6rLeN1IXvju-o_r1QkECczJEtaFbL5PD2gWAVz2U9clGRLaNIvxZzF3QcPT1IiRsjygd6zmg](./media/media/image4.png){width="2.46875in"
-height="1.3958333333333333in"}
+```{r}
+#| fig-width: 2.468
+knitr::include_graphics(here::here("media", "image4.png"))
+```
 
-The *u~j~* are the long-term mean of β*~j,t~* .  The trend at year *t*
-is β*~j,t~* = *u~j~* + *w~j,t~* .  The *w~t~* and *v~t~ * are error
+The *u~j~* are the long-term mean of β*~j,t~* .  The trend at year *t*
+is β*~j,t~* = *u~j~* + *w~j,t~* .  The *w~t~* and *v~t~ * are error
 terms drawn from a multivariate normal distribution with
-variance-covariance matrix **Q** and **R** respectively.  The structure
+variance-covariance matrix **Q** and **R** respectively.  The structure
 of **Q** and **R** allows one to specify different types of parameter
 constraints (for example equal variances across populations).
 
@@ -155,30 +165,25 @@ populations and populations constrained to have the same year-to-year
 variability), one variance and one covariance across all populations,
 equal variances and covariances across similar run timings in a
 population, and unconstrained (unique variances and covariances across
-all populations).  For **R** the following structures were explored:
+all populations).  For **R** the following structures were explored:
 diagonal with unequal variances (no covariance) and diagonal with equal
-variances.  The **R** represents the residual non-time-dependent error
+variances.  The **R** represents the residual non-time-dependent error
 and was assumed not to covary across populations (**Q** and **R** cannot
 both have covariance terms in the DLM due to identifiability
-constraints).  Across the majority of ESUs, model selection gave the
+constraints).  Across the majority of ESUs, model selection gave the
 most data support (quantified with AICc) to a **Q** with one variance
 and one covariance across all populations in an ESU and an **R**, the
 residual variance-covariance matrix, with one variance across
-populations.  Because **Q** has covariance terms, estimates of mean
+populations.  Because **Q** has covariance terms, estimates of mean
 spawner numbers can be provided for populations with missing data
 because the data from other populations helps inform the estimates
 (Figure 2 shows an example).
 
-![https://lh5.googleusercontent.com/BenXGj0kZva3j2IIFSHDVNYV2C_P9A-I27squyzN0KnGEfrHQA3ZUk2TVUy1Vs\_\_BJUngv9Rvqm5HMnfcanGZ5jW72tWqkWrRLiK2ZZEfossfj9gcOsNICLC2FRzHBA3DdfZPA](./media/media/image5.png){width="5.375in"
-height="5.875in"}
-
-Figure . This figure compares a trend analysis using a non-time-varying
-trend (red line) via linear regression versus a trend analysis using a
-time-varying trend (blue line). The black line is the true line we are
-trying to estimate (with the red or blue line) and the dots in the top
-panel are the observations of the black line. In the top plot, y is the
-log-spawners. The trend in the lower plot is the yearly change in
-log-spawners.
+```{r}
+#| fig-cap: This figure compares a trend analysis using a non-time-varying trend (red line) via linear regression versus a trend analysis using a time-varying trend (blue line). The black line is the true line we are trying to estimate (with the red or blue line) and the dots in the top panel are the observations of the black line. In the top plot, y is the log-spawners. The trend in the lower plot is the yearly change in log-spawners.
+#| fig-width: 5.3
+knitr::include_graphics(here::here("media", "image5.png"))
+```
 
 ### Code to fit a multivariate DLM
 
@@ -187,62 +192,49 @@ counts (or indices in some cases). The package handles missing data
 entered as NAs for missing years. The following example code fits 2
 time-series via a multivariate DLM using the MARSS R package:
 
-*library(MARSS)*
-
-*logspawners = log(matrix(c(*
-
-*  1106, 1503, 853, 566, 251, 424, 783, 639, 566, 413, 1035, 890,*
-
-*  7348, 6880, 2699, 1096, NA, NA, NA, 1318, 1127, 472, 637, 869*
-
-*  ), 2,12, byrow=TRUE))*
-
-*model=list(*
-
-*  Q=\"equalvarcov\",*
-
-*  R=\"diagonal and equal\",*
-
-*  U=\"unequal\")*
-
-*fit=MARSS(logspawners, model=model)*
+```
+library(MARSS)
+logspawners = log(matrix(c(1106, 1503, 853, 566, 251, 424, 783, 639, 566, 413, 1035, 890, 7348, 6880, 2699, 1096, NA, NA, NA, 1318, 1127, 472, 637, 869), 2,12, byrow=TRUE))
+model=list(
+  Q="equalvarcov", 
+  R="diagonal and equal",
+  U="unequal")
+fit=MARSS(logspawners, model=model)
+```
 
 ## Natural-origin spawner estimates
 
 For some populations, there were estimates of the fraction of total
-natural spawners that were of natural-origin.  However, for many
+natural spawners that were of natural-origin.  However, for many
 populations, these data were noisy and had many missing years. In
 addition, the number of years with fraction natural-origin information
-was often shorter than the years with total spawner counts.  To estimate
+was often shorter than the years with total spawner counts.  To estimate
 a mean natural-origin spawner estimate, similar to the mean total
 spawner estimate, the mean total spawner estimate was multiplied by a
-smoothed estimate of the fraction natural-origin.  The smoothed estimate
+smoothed estimate of the fraction natural-origin.  The smoothed estimate
 was produced by fitting a univariate DLM to the logit *z~t~* = log(*f
 /*(1 *− f* )) of the fraction natural-origin estimates with a
 time-varying β. Specifically, the following model was fit:
 
-*\
-\
-*![https://lh4.googleusercontent.com/4ZHhRk8_wRCjG0BdhNzQnR_STBIbVXkqr3Q9Bf9H26WIAYeX0ZPX6GnZd1xKgdoNBFi1-ZO2s_tB1ZAyuWOmkMUMvT_bRFGtKS-vVXUDjZ7mPUpra7CQ4f6Oh0uFAwOFxuMHRA](./media/media/image6.png){width="1.25in"
-height="0.4583333333333333in"}
+```{r}
+#| fig-width: 1.25
+knitr::include_graphics(here::here("media", "image6.png"))
+```
 
 The mean natural-origin spawner estimate at time *t* was then *y*¯*~t~
-exp(z*¯*~t~ )/*(exp(*z*¯*~t~ )*+ 1).  Each time series of fraction
+exp(z*¯*~t~ )/*(exp(*z*¯*~t~ )*+ 1).  Each time series of fraction
 natural-origin from each population was fit independently (no covariance
 assumed across populations). Missing values were allowed within the
 fraction natural-origin time series and would be estimated by the DLM,
 however no estimates were used more than 1-year before the available
 data or 1-year after. For example, if the natural origin data started in
-2001, then the first DLM estimate would be for 2000. This prevent the
+2001, then the first DLM estimate would be for 2000. This prevents the
 model from extrapolating too far outside the data.
 
-![https://lh4.googleusercontent.com/iaPtV25vaZnR1Dl4bp7ZZXn3HWtkKI_DdktcfkI8-kMkCVvHFkT97Ple5cLIyIYhYJCGfMypB5Mpy3TsCpHAmaUTJF1aA5X2AG3nP2mL0PqbHmSZD4igYeSKbTDpkGkU4w2jow](./media/media/image7.png){width="4.625in"
-height="4.239583333333333in"}
-
-Figure .The estimated mean log (spawners) using a multivariate DLM. 
-Notice that the information from the years when data are available for
-time-series 1 are used to inform the estimate for time-series 2 for the
-missing years (marked with a circle). 
+```{r}
+#| fig-cap: The estimated mean log (spawners) using a multivariate DLM. Notice that the information from the years when data are available for time-series 1 are used to inform the estimate for time-series 2 for the missing years (marked with a circle).
+knitr::include_graphics(here::here("media", "image7.png"))
+```
 
 ## Summary statistics
 
@@ -252,7 +244,7 @@ total spawners time series in the ESU), the mean natural origin spawner
 DLM estimates (the total spawner DLM estimate times the fraction natural
 origin DLM estimate), and the raw (original data) total spawners and the
 raw natural origin spawner estimates (raw total times fraction natural
-origin).  The definition of 'spawner' with respect to age varied
+origin).  The definition of 'spawner' with respect to age varied
 somewhat across data sources and was dependent in some cases upon
 decisions made by data providers. For Chinook salmon, jacks (males one
 year younger than the model age) were included as spawners in most cases
@@ -268,13 +260,13 @@ by technical recovery teams and/or included in recovery plans. Where
 feasible, these metrics are also reported in the individual ESU/DPS
 chapters.
 
-**15-year trends. ** A linear regression was fit to 15 years of the 
+**15-year trends. ** A linear regression was fit to 15 years of the 
 mean natural origin spawner DLM estimates and the slope (trend)
 reported. The 15-year time period was chosen to remain consistent with
 prior viability reports and does not necessarily correspond to any peaks
 or troughs in the time series.
 
-**5-year geometric means. ** 5-year geometric means (*y*~1~*y*~2~*y*~3~
+**5-year geometric means. ** 5-year geometric means (*y*~1~*y*~2~*y*~3~
 *y*~4~*y*~5~)^(1*/*5)^ were computed from the raw total natural spawner
 and natural origin spawner DLM estimates. The raw data could have
 missing values in the calculation, while the DLM estimates would not.
@@ -282,23 +274,23 @@ For the raw estimates, when there were missing values, the geometric
 mean was computed only from the non-missing values. For example, if 3
 values were available, (*y*~1~*y*~2~*y*~3~)^(1*/*3)^ was reported.
 
-**Average fraction natural origin. ** These were computed over 5-year
+**Average fraction natural origin. ** These were computed over 5-year
 time frames from the raw estimates of fraction natural-origin.
 
-**Productivity metric. ** Because age of return data were not
+**Productivity metric.** Because age of return data were not
 consistently available across all ESUs and populations, a generic
 productivity metric was computed as the mean natural-origin spawner DLM
 estimate at year *t* divided by the mean total spawner DLM estimate at
 year *t −* 3 for coho salmon and *t −* 4 for all other species. This
 metric was plotted for all years of available data.
 
-**Harvest.** * *We compiled data on trends in the adult equivalent
-exploitation rate for each ESU.  This information was used to provide
+**Harvest.** We compiled data on trends in the adult equivalent
+exploitation rate for each ESU.  This information was used to provide
 some additional context for interpreting abundance trends, similar to
 the environmental trend information we also report. It is important to
 note that magnitude and trend of an exploitation rate cannot be
-interpreted uncritically as a trend in level of risk from harvest. 
+interpreted uncritically as a trend in level of risk from harvest. 
 Analyses relating exploitation rate to extinction risk or recovery
 probability have been conducted in a quantitative way for several ESUs (
 e.g., NMFS 2001; Ford *et al.* 2007; NWFSC 2010) and qualitatively for
-others (NMFS 2004).  See specific sections for details.  
+others (NMFS 2004).  See specific sections for details.  

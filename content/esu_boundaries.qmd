@@ -2,16 +2,4 @@
 title: ESU boundaries
 ---
 
-In the 2015 report NWFSC (2015) recommended a revision of the Lower
-Columbia River Steelhead DPS and Upper Willamette River Steelhead DPS
-boundaries.  Specifically, that the Clackamas River winter steelhead
-demographically independent population (DIP) originally included as part
-of the Lower Columbia River DPS, instead be included in the Upper
-Willamette River DPS. Genetic research published since 2015 further
-supports the closer affinity of the Clackamas River winter-run steelhead
-DIP to Upper Willamette River steelhead DPS populations rather than
-Lower Columbia River steelhead DPS populations (Winans *et al.* 2018). 
-We believe that the rationale for revising the placement of the
-Clackamas River winter steelhead DIP originally stated in the 2015
-Status Review is still accurate and appropriate and does not need
-further review or revision. 
+In the 2015 report @nwfsc_status_2015 recommended a revision of the Lower Columbia River Steelhead DPS and Upper Willamette River Steelhead DPS boundaries. Specifically, that the Clackamas River winter steelhead demographically independent population (DIP) originally included as part of the Lower Columbia River DPS, instead be included in the Upper Willamette River DPS. Genetic research published since 2015 further supports the closer affinity of the Clackamas River winter-run steelhead DIP to Upper Willamette River steelhead DPS populations rather than Lower Columbia River steelhead DPS populations [@winans_dam_2018]. We believe that the rationale for revising the placement of the Clackamas River winter steelhead DIP originally stated in the 2015 Status Review is still accurate and appropriate and does not need further review or revision.

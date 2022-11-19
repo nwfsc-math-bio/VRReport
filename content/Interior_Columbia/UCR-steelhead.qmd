@@ -10,13 +10,13 @@ impassable barriers in streams in the Columbia River Basin upstream from
 the Yakima River, Washington, to the US-Canada border, as well as six
 artificial propagation programs (85 FR 81822 and Figure 10). The Upper
 Columbia Steelhead DPS was originally listed under the ESA in 1997; it
-is currently designated as threatened. 
+is currently designated as threatened. 
 
-![](./media/media/image14.tiff){width="6.0in"
-height="4.638194444444444in"}
-
-Figure . Map of the Upper steelhead DPS's spawning and rearing areas,
-illustrating populations and major population groups.
+```{r}
+#| fig-cap: Map of the Upper steelhead DPS's spawning and rearing areas, illustrating populations and major population groups.
+#| label: fig-UCR-steelhead-spawning-areas
+knitr::include_graphics(here::here("media", "image14.jpg"))
+```
 
 NOAA Fisheries has defined DPSs of steelhead to include only the
 anadromous members of this species (70 FR 67130). Our approach to
@@ -68,7 +68,7 @@ called for in the Upper Columbia Recovery Plan were anticipated to be
 implemented over the next 25 years and the benefits of some of those
 actions would require some time to be realized. Overall, the new
 information considered did not indicate a change in the biological risk
-category since the time of the last BRT status review. 
+category since the time of the last BRT status review. 
 
 *2015*
 
@@ -138,14 +138,12 @@ StreamNet Coordinated Assessments data portal (StreamNet, 2020a). All
 populations in the ESU have low (\< 1.0) R/S values, implying that the
 natural replacement rate is not keeping up with all sources of mortality
 across the life-cycle.
-![](./media/media/image15.png){width="4.151163604549431in"
-height="2.6046511373578305in"}
 
-Figure . Smolt to Adult Return and Recruits per Spawner for each of the
-populations in the ESU. Geometric means of SAR and R/S are shown for
-each population, along with the standard error of the estimate (whiskers
-represent +/- one standard error). The time period included in the SAR
-or R/S indices is the past 20 years, depending on data availability.
+```{r}
+#| fig-cap: Smolt to Adult Return and Recruits per Spawner for each of the populations in the ESU. Geometric means of SAR and R/S are shown for each population, along with the standard error of the estimate (whiskers represent +/- one standard error). The time period included in the SAR or R/S indices is the past 20 years, depending on data availability.
+#| label: fig-UC-steelhead-Smolt-to-Adult
+knitr::include_graphics(here::here("media", "image15.png"))
+```
 
 *Ocean Condition Indices*
 
@@ -222,7 +220,7 @@ year, under the assumption that both hatchery and natural origin fish
 contribute to production as parent spawners. All populations are
 consistently exhibiting natural production rates well below replacement,
 and natural production has also declined consistently, resulting in an
-increasing fraction of hatchery fish on the spawning grounds each year. 
+increasing fraction of hatchery fish on the spawning grounds each year. 
 
 The required improvement to increase abundance and productivity for
 Upper Columbia Steelhead populations is at the high end of the range for
@@ -243,52 +241,35 @@ R/S, and FWPI) than the remaining populations in the DPS, but still
 falls into a high risk category due to the recent downward trend in both
 abundance and productivity.
 
-![](./media/media/image16.tiff){width="6.0in"
-height="3.529166666666667in"}
+```{r}
+#| fig-cap: Smoothed trend in estimated total (thick black line, with 95% confidence internal in gray) and natural (thin red line) population spawning abundance.  In portions of a time series where a population has no annual estimates but smoothed spawning abundance is estimated from correlations with other populations the smoothed estimate is shown in light gray. Points show the annual raw spawning abundance estimates.  For some trends the smoothed estimate may be influenced by earlier data points not included in the plot. Upper panel is the traditionally generated spawner abundance timeseries for each population. The lower panel is the PIT tag based population estimates based on a tag detections within each population watershed relative to tagging the aggregate Upper Columbia River run at large.
+#| label: fig-UC-steelhead-smoothed-trends
+#| fig-subcap: 
+#|   - "Traditionally generated spawner abundance"
+#|   - "PIT tag based"
+#| layout-nrow: 2
+knitr::include_graphics(here::here("media", "image16.jpg"))
+knitr::include_graphics(here::here("media", "image17.jpg"))
+```
 
-![](./media/media/image17.tiff){width="6.0in"
-height="3.529166666666667in"}
+```{r}
+#| fig-cap: Estimate spawners relative to observed spawners across all four populations for all years where both measures exist. Black line represents the expected 1:1 relationship if the run-at-large tagging based, model estimated population measures match the current redd survey based measures.
+#| label: fig-UC-steelhead-one-to-one
+knitr::include_graphics(here::here("media", "image18.png"))
+```
 
-Figure . Smoothed trend in estimated total (thick black line, with 95%
-confidence internal in gray) and natural (thin red line) population
-spawning abundance.  In portions of a time series where a population has
-no annual estimates but smoothed spawning abundance is estimated from
-correlations with other populations the smoothed estimate is shown in
-light gray. Points show the annual raw spawning abundance
-estimates.  For some trends the smoothed estimate may be influenced by
-earlier data points not included in the plot. Upper panel is the
-traditionally generated spawner abundance timeseries for each
-population. The lower panel is the PIT tag based population estimates
-based on a tag detections within each population watershed relative to
-tagging the aggregate Upper Columbia River run at large.
+```{r}
+#| fig-cap: Trends in population productivity, estimated as the log of the smoothed natural spawning abundance in year *t* divided by the smoothed natural spawning abundance in year *t*- 4. Spawning years on x axis.
+#| label: fig-UC-Spr-Chinook-productivity-trends
+knitr::include_graphics(here::here("media", "image19.png"))
+```
 
-![https://lh4.googleusercontent.com/VpVhqQm3bW5UmXQwmdduJhMvAE0A9ugow-dYJBhMW4pCtRUIF58AmcsrJVvYZiVnBbAWpn_gdpBvJ3leLbVwLJ6WfyYh5w5WT7XuFu2NGAWDQhawTk6_AqAcLB2SRSrVPF7A1g](./media/media/image18.png){width="5.197916666666667in"
-height="3.9895833333333335in"}
+```{r}
+#| fig-cap: Smolt to Adult Return, Recruits per Spawner, and Freshwater Productivity Index (FWPI) for each of the populations in the DPS. Geometric means of SAR and R/S are shown for each population, along with the standard error of the estimate (whiskers represent +/- one standard error). The time period included in the SAR or R/S indices is the past 20 years, depending on data availability. The FWPI is constructed as a ratio of the geomean R/S and SAR, and can be thought of as a measure of smolts per spawner.
+#| label: fig-UC-Spr-Chinook-Smolt-to-Adult-Productivity
+knitr::include_graphics(here::here("media", "image20.png"))
+```
 
-Figure . Estimate spawners relative to observed spawners across all four
-populations for all years where both measures exist. Black line
-represents the expected 1:1 relationship if the run-at-large tagging
-based, model estimated population measures match the current redd survey
-based measures.
-
-![](./media/media/image19.png){width="5.833333333333333in"
-height="3.431372484689414in"}
-
-Figure . Trends in population productivity, estimated as the log of the
-smoothed natural spawning abundance in year *t* - smoothed natural
-spawning abundance in year (*t* -- 4). Spawning years on x-axis. 
-
-![](./media/media/image20.png){width="5.651162510936133in"
-height="2.581395450568679in"}
-
-Figure . Smolt to Adult Return, Recruits per Spawner, and Freshwater
-Productivity Index (FWPI) for each of the populations in the DPS.
-Geometric means of SAR and R/S are shown for each population, along with
-the standard error of the estimate (whiskers represent +/- one standard
-error). The time period included in the SAR or R/S indices is the past
-20 years, depending on data availability. The FWPI is constructed as a
-ratio of the geomean R/S and SAR, and can be thought of as a measure of
-smolts per spawner.
 
   --------------------------------------------------------------------------------------------------------
   Population   MPG        1990-1994   1995-1999   2000-2004   2005-2009   2010-2014   2015-2019   \%
@@ -331,7 +312,7 @@ smolts per spawner.
   parent escapements below 75% of population threshold. Current
   abundance and productivity estimates are geometric means. Range in
   annual abundance, standard error and number of qualifying estimates
-  for productivities in parentheses.. 
+  for productivities in parentheses.. 
 
 ## Spatial structure and diversity
 
@@ -354,7 +335,7 @@ to the advent of major hatchery releases (Seamons *et al.* 2012).
 Genetic studies based on sampling in the Wenatchee as well as other
 Upper Columbia River steelhead population tributaries are underway and
 should allow for future analyses of current genetic structure and any
-impacts of changing hatchery release practices. 
+impacts of changing hatchery release practices. 
 
 Hatchery-origin returns continue to constitute a high fraction of total
 spawners in natural spawning areas for this DPS (Table 8). The estimated
@@ -373,12 +354,11 @@ natural-origin fish (Ford *et al.* 2016), reinforcing the weight the
 ICTRT placed on the presence of hatchery origin spawners in the Spatial
 Structure and Diversity metric.
 
-![](./media/media/image21.png){width="5.833333333333333in"
-height="3.431372484689414in"}
-
-Figure . Smoothed trend in the estimated fraction of the natural
-spawning population consisting of fish if natural origin. Points show
-the annual raw estimates. 
+```{r}
+#| fig-cap: Smoothed trend in the estimated fraction of the natural spawning population consisting of fish if natural origin. Points show the annual raw estimates.
+#| label: fig-UC-steelhead-smoothed-frac-wild
+knitr::include_graphics(here::here("media", "image21.png"))
+```
 
   --------------------------------------------------------------------------
   Population     1995-1999   2000-2004   2005-2009   2010-2014   2015-2019
@@ -446,7 +426,7 @@ productivity thresholds. These natural spawner abundance criteria
 replace the interim targets referenced in the 2005 BRT report. The
 12-year geometric mean productivity should exceed 1.1 spawners per
 parent spawner for the two larger populations (Wenatchee and Methow
-Rivers), and 1.2 for the smaller Entiat River and Okanogan populations. 
+Rivers), and 1.2 for the smaller Entiat River and Okanogan populations. 
 
 The ICTRT had recommended that at least two of the four extant
 populations be targeted for highly viable status (less than 1% risk of
@@ -607,7 +587,7 @@ hatchery-origin returns in natural spawning areas remain high across the
 DPS, especially in the Methow and Okanogan river populations. Tributary
 habitat actions called for in the Upper Columbia Recovery Plan are
 anticipated to be implemented over the next 25 years and the benefits of
-some of those actions will require some time to be realized. 
+some of those actions will require some time to be realized. 
 
 The most recent estimates (5-year geometric mean) of total and
 natural-origin spawner abundance have declined since the last report,

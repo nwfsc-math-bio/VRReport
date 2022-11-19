@@ -4,7 +4,7 @@ project:
   
 book: 
   page-navigation: true
-  title: "NW Viability Report" 
+  title: "NW Viability Report\n2020" 
   site-url: "https://nwfsc-math-bio.github.io/VRReport" 
   repo-url: "https://github.com/nwfsc-math-bio/VRReport"
   repo-actions: [edit, source, issue]

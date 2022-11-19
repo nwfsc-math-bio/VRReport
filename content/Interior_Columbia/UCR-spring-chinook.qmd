@@ -7,15 +7,14 @@ title: "Upper Columbia River spring Chinook salmon ESU"
 The Upper Columbia Spring-Run Chinook salmon ESU includes naturally
 spawning spring-run Chinook salmon in the major tributaries entering the
 Columbia River upstream of Rock Island Dam and associated hatchery
-programs (85 FR 81822; Figure 3).  The ESU was listed as Endangered
+programs (85 FR 81822; @fig-UCR-Spr-Chinook-spawning-areas).  The ESU was listed as Endangered
 under the ESA in 1999 (affirmed in 2005, 2012 and 2016).  
 
-![](./media/media/image8.tiff){width="6.0in"
-height="4.638194444444444in"}
-
-Figure . Map of the Upper Columbia River Chinook salmon ESU's spawning
-and rearing areas, illustrating populations and major population
-groups. 
+```{r}
+#| fig-cap: Map of the Upper Columbia River Chinook salmon ESU's spawning and rearing areas, illustrating populations and major population groups. 
+#| label: fig-UCR-Spr-Chinook-spawning-areas
+knitr::include_graphics(here::here("media", "image8.jpg"))
+```
 
 ## Summary of previous viability conclusions
 
@@ -103,15 +102,12 @@ the low end, as 2% is roughly a replacement rate. Recruits per Spawner
 Assessments data portal (see footnote). All populations in the ESU have
 low (\< 1.0) R/S values, implying that the natural replacement rate is
 not keeping up with all sources of mortality across the life-cycle.
-![](./media/media/image9.png){width="4.963415354330708in"
-height="2.658535651793526in"}
 
-Figure . Smolt to Adult Return and Recruits per Spawner for each of the
-populations in the ESU. Geometric means of SAR (%) and R/S (fish/fish)
-are shown for each population, along with the standard error of the
-estimate (whiskers represent +/- one standard error). The time period
-included in the SAR or R/S indices is the past 20 years, depending on
-data availability.
+```{r}
+#| fig-cap: Smolt to Adult Return and Recruits per Spawner for each of the populations in the ESU. Geometric means of SAR (%) and R/S (fish/fish) are shown for each population, along with the standard error of the estimate (whiskers represent +/- one standard error). The time period included in the SAR or R/S indices is the past 20 years, depending on data availability.
+#| label: fig-UC-Spr-Chinook-Smolt-to-Adult
+knitr::include_graphics(here::here("media", "image9.png"))
+```
 
 ### Ocean Condition Indices
 
@@ -183,17 +179,11 @@ variations in the years following, with peaks around 2001 and 2010 and
 declines after 2010.  Average natural origin returns remain well below
 ICTRT minimum threshold levels.  
 
-![](./media/media/image10.tiff){width="6.0in"
-height="3.529166666666667in"}
-
-Figure . Smoothed trend in estimated total (thick black line, with 95%
-confidence internal in gray) and natural (thin red line) population
-spawning abundance.  In portions of a time series where a population has
-no annual estimates but smoothed spawning abundance is estimated from
-correlations with other populations the smoothed estimate is shown in
-light gray. Points show the annual raw spawning abundance
-estimates.  For some trends the smoothed estimate may be influenced by
-earlier data points not included in the plot.
+```{r}
+#| fig-cap: Smoothed trend in estimated total (thick black line, with 95% confidence internal in gray) and natural (thin red line) population spawning abundance.  In portions of a time series where a population has no annual estimates but smoothed spawning abundance is estimated from correlations with other populations the smoothed estimate is shown in light gray. Points show the annual raw spawning abundance estimates.  For some trends the smoothed estimate may be influenced by earlier data points not included in the plot.
+#| label: fig-UC-Spr-Chinook-smoothed-trends
+knitr::include_graphics(here::here("media", "image10.jpg"))
+```
 
 The annual natural return per spawner series for each population
 directly reflects the patterns in natural origin abundance and was only
@@ -214,27 +204,23 @@ productivity levels above the threshold viability curve corresponding to
 and/or natural production capacity. The long-term population
 productivity data indicates that this assessment is still valid.
 
-![https://lh3.googleusercontent.com/vv-lYMxWcw_2SDBmWC-cKQKEAh_iusHM_rsozUoYZgtFxyNSleNdrkhTQKpOpr4EFuBwXbR0mb5Z7ZvbsOb6dP-UOU_fbxgQ8XF7WD6_FWVm0Wcnr4TJFw29xOAL8DAz38AVMg](./media/media/image11.png){width="5.833333333333333in"
-height="3.4270833333333335in"}
+```{r}
+#| fig-cap: Trends in population productivity, estimated as the log of the smoothed natural spawning abundance in year *t* divided by the smoothed natural spawning abundance in year *t*- 4. Spawning years on x axis.
+#| label: fig-UC-Spr-Chinook-productivity-trends
+knitr::include_graphics(here::here("media", "image11.png"))
+```
 
-Figure . Trends in population productivity, estimated as the log of the
-smoothed natural origin spawning abundance in year *t*  - smoothed
-natural spawning abundance in year (*t -* 4).  Spawning years on x-axis.
 
-![](./media/media/image12.png){width="5.686046587926509in"
-height="2.6860476815398076in"}
+```{r}
+#| fig-cap: Smolt to Adult Return, Recruits per Spawner, and Freshwater Productivity Index (FWPI) for each of the populations in the ESU. Geometric means of SAR and R/S are shown for each population, along with the standard error of the estimate (whiskers represent +/- one standard error). The time period included in the SAR or R/S indices is the past 20 years, depending on data.
+#| label: fig-UC-Spr-Chinook-Smolt-to-Adult-Productivity
+knitr::include_graphics(here::here("media", "image12.png"))
+```
 
-Figure . Smolt to Adult Return, Recruits per Spawner, and Freshwater
-Productivity Index (FWPI) for each of the populations in the ESU.
-Geometric means of SAR and R/S are shown for each population, along with
-the standard error of the estimate (whiskers represent +/- one standard
-error). The time period included in the SAR or R/S indices is the past
-20 years, depending on data.
-
-  --------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
   Population   MPG        1990-1994   1995-1999   2000-2004   2005-2009   2010-2014   2015-2019   \%
                                                                                                   Change
-  ------------ ---------- ----------- ----------- ----------- ----------- ----------- ----------- --------
+------------ ---------- ----------- ----------- ----------- ----------- ----------- ----------- --------
   Wenatchee R. North      380 (735)   99 (192)    668 (1652)  379 (1671)  874 (2247)  443 (1092)  -49
   Spring       Cascades                                                                           (-51)
 
@@ -243,7 +229,7 @@ error). The time period included in the SAR or R/S indices is the past
 
   Methow R.    North      726 (867)   44 (75)     292 (2171)  379 (1470)  448 (1820)  232 (659)   -48
   Spring       Cascades                                                                           (-64)
-  --------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
 
   : Table . 5-year mean of fraction natural origin (sum of all estimates
   divided by the number of estimates). Blanks mean no estimate available
@@ -277,7 +263,7 @@ be quantified.  The only significant harvest in salmon fisheries occurs
 in the mainstem Columbia River in tribal and non-tribal fisheries
 directed at hatchery spring Chinook salmon from the Columbia and
 Willamette Rivers.  Exploitation rates have remained relatively low,
-generally below the target rate of 2%(Figure 8). 
+generally below the target rate of 2% (Figure 8). 
 
 Figure . Non-treaty harvest rate for upper Columbia River spring Chinook
 salmon.  Data from the Columbia River Technical Advisory Committee (TAC
@@ -307,12 +293,11 @@ transfer to the Chiwawa acclimation pond. It is possible that some of
 the returns from that program are homing on the Eastbank facility and
 then straying into the Entiat River, the nearest spawning area.  
 
-![https://lh3.googleusercontent.com/1-02aJKiDUi2Rcf0CkTEEl-gIBbvdSNuQxrACGrNwayAV9O6ZPdQr5Nat9UGTt-oO0tJxLiNGonwSEi-s-p3rRtmHLaghK3xeS-4Hxui4rDwdg4I21uIqlwpFBdGjayzK4l2Ng](./media/media/image13.png){width="5.833333333333333in"
-height="3.4270833333333335in"}
-
-Figure . Smoothed trend in the estimated fraction of the natural
-spawning population consisting of fish of natural origin.  Points show
-the annual raw estimates.  
+```{r}
+#| fig-cap: Smoothed trend in the estimated fraction of the natural spawning population consisting of fish if natural origin. Points show the annual raw estimates.
+#| label: fig-UC-Spr-Chinook-smoothed-frac-wild
+knitr::include_graphics(here::here("media", "image13.png"))
+```
 
   ------------------------------------------------------------------------------
   Population         1995-1999   2000-2004   2005-2009   2010-2014   2015-2019
@@ -459,7 +444,7 @@ estimate. Only populations with at least 4 wild spawner estimates from
 1980 to 2014 are shown and with at least 2 data points in the first 5
 years and last 5 years of the 15-year period.
 
-##Recovery Update
+## Recovery Update
 
 The UCSRB Plan calls for meeting or exceeding the same basic spatial
 structure and diversity criteria adopted from the ICTRT viability report
