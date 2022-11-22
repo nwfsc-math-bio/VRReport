@@ -44,12 +44,14 @@ book:
     search: true
     collapse-level: 1
 
-bibliography: [content/NW-Viability-Report.bib]
+bibliography: [content/NW-Viability-Report.json]
+csl: content/american-fisheries-society.csl
 
 execute:
   echo: false
   code-overflow: wrap
-
+#  freeze: auto
+  
 format:
   titlepage-pdf:
     documentclass: scrbook
