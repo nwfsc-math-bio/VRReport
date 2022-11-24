@@ -73,7 +73,7 @@
       </else-if>
       <else-if type="article-journal">
          <text variable="DOI" prefix=", DOI:"/>
-      <else-if>
+      </else-if>
     </choose>
   </macro>
   <macro name="publisher">
@@ -86,7 +86,7 @@
         <names variable="institution"/>
       </substitute>
     </names>
-          <text variable="publisher" prefix=". " suffix="TEST "/>
+          <text variable="publisher" prefix=". "/>
       </if>
       <else-if type="thesis">
         <group delimiter=", ">

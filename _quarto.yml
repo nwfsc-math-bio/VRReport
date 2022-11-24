@@ -44,8 +44,8 @@ book:
     search: true
     collapse-level: 1
 
-bibliography: [content/NW-Viability-Report.json]
-csl: content/american-fisheries-society.csl
+bibliography: [content/NW-Viability-Report.bib]
+csl: content/test.csl
 
 execute:
   echo: false
