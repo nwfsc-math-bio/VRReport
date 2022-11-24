@@ -44,7 +44,7 @@ book:
     search: true
     collapse-level: 1
 
-bibliography: [content/NW-Viability-Report.bib]
+bibliography: [content/NW-Viability-Report.bibtex]
 csl: content/test.csl
 
 execute:
