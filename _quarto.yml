@@ -45,7 +45,7 @@ book:
     collapse-level: 1
 
 bibliography: [content/NW-Viability-Report.bibtex]
-csl: content/test.csl
+csl: content/vrreport.csl
 
 execute:
   echo: false
